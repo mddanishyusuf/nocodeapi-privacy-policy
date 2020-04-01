@@ -1,4 +1,5 @@
-# Privacy Policy
+<div className="tag">LEGAL</div>
+<h2>Privacy Policy</h2>
 <p>
 As you may be able to tell, privacy is basically what we're all about. An important part of that
 is having a policy that people can actually understand. As{' '}
@@ -30,10 +31,10 @@ necessary to build the NoCodeAPI.
 <h4>Third-Party Payment Processor</h4>
 
 <p>
-We use a third party payment processor to process payments made to us. In connection with the
+We use a third-party payment processor to process payments made to us. In connection with the
 processing of such payments, we do not retain any personally identifiable information or any
 financial information such as credit card numbers. Rather, all such information is provided
-directly to our third party processor, Stripe, whose use of your personal information is
+directly to our third-party processor, Stripe, whose use of your personal information is
 governed by their privacy policy, which may be viewed at{' '}
 <a href="https://stripe.com/us/privacy" target="_blank" rel="noopener noreferrer">
 https://stripe.com/us/privacy
@@ -50,16 +51,15 @@ we're collecting it and how it will be used.
 <p>
 We only retain collected information for as long as necessary to provide you with your requested
 service. What data we store, we protect within commercially acceptable means to prevent loss and
-theft, as well as unauthorised access, disclosure, copying, use or modification.
+theft, as well as unauthorized access, disclosure, copying, use or modification.
 </p>
 <p>
 You are free to refuse our request for your personal information, with the understanding that we
 may be unable to provide you with some or all of our service.
 </p>
 <p>
-Information From hird-party services("Third-Party Services") Like Airtable, Google, Twitter &
-etc. Only those minial info including your keys and email metadata is encrypted by industry
-standard AES256 cipher at rest in our database.
+Information From third-party services("Third-Party Services") Like Airtable, Google, Twitter &
+etc. Only those minimal info including your keys and email metadata is encrypted by industry-standard AES256 cipher at rest in our database.
 </p>
 <p>
 The Personal Information that you provide can be accessed at any time through your account or
@@ -104,7 +104,7 @@ values.
 <p>
 NoCodeAPI takes reasonable steps to protect the Personal Data provided via the Services from
 loss, misuse, and unauthorized access, disclosure, alteration, or destruction. However, no
-Internet or email transmission is ever fully secure or error free. In particular, email sent to
+Internet or email transmission is ever fully secure or error-free. In particular, email sent to
 or from the Services may not be secure. Therefore, you should take special care in deciding what
 information you send to us via email. Please keep this in mind when disclosing any Personal Data
 to NoCodeAPI via the Internet.
