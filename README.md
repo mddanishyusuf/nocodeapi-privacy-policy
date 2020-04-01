@@ -85,13 +85,13 @@ Simple Analytics
 )
 </li>
 <li>
-In-app support chat (<a href="https://app.crisp.chat/">Crisp</a>)
+In-app support chat (<a href="https://crisp.chat/en/privacy/" target="_blank" rel="noopener noreferrer">Crisp</a>)
 </li>
 <li>
-Payment processing (<a href="https://stripe.com/en-in/privacy">Stripe</a>)
+Payment processing (<a href="https://stripe.com/en-in/privacy" target="_blank" rel="noopener noreferrer">Stripe</a>)
 </li>
 <li>
-Newsletter (<a href="https://mailchimp.com/legal/">MailChimp</a>)
+Newsletter (<a href="https://mailchimp.com/legal/" target="_blank" rel="noopener noreferrer">MailChimp</a>)
 </li>
 </ol>
 
