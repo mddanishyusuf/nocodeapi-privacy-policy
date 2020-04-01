@@ -85,7 +85,7 @@ Simple Analytics
 )
 </li>
 <li>
-In-app support chat (<a href="https://github.com/mddanishyusuf/intergram">intergram</a>)
+In-app support chat (<a href="https://app.crisp.chat/">Crisp</a>)
 </li>
 <li>
 Payment processing (<a href="https://stripe.com/en-in/privacy">Stripe</a>)
