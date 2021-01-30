@@ -14,10 +14,19 @@ nocodeapi-privacy-policy
 </a>
 </p>
 <p>
+Please contact hello@nocodeapi.com if you have any questions about your privacy or this statement.
+</p>
+<p>
 Please read the following carefully to understand our views and practices regarding your
 personal data and how we will treat it. By using our application (the "Service"), you are
 accepting and consenting to the practices described in this policy.
 </p>
+
+<h4>Who are we.</h4>
+<p>
+NoCodeAPI is a Pte. Ltd, Incorporate on 07/01/2021 at 68 Circular Road, #02-01 Singapore(049422). Registration number 202100914Z. We are the controller of your personal data.
+</p>
+
 <h4>Third-Party Service</h4>
 <p>
 Our(NoCodeAPI) Service allows you to build APIs on the top of third-party services("Third-Party
